@@ -14,7 +14,7 @@ You can find me on:
 <br>
 <br>
 
-<a href=https://www.linkedin.com/in/frederico-bedin-guidi-a7874a265/> 
+<a href=[https://www.linkedin.com/in/frederico-bedin-guidi-a7874a265](https://www.linkedin.com/in/frederico-bedin-a7874a265/)/> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px">
 </a>
 <br>
